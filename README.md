@@ -23,11 +23,8 @@ What offer should be sent to each customer based on their demographics?
 
 # File Descriptions
 ### Starbucks_Capstone_notebook.ipynb
-This is the file that describes the steps I took in creating the recommendation engines. The code I used to solve the tasks I mentioned in the Project Motivation section is in this file.
-### The .csv files
-These are the files that was generated during the data cleaning phase.
-1. master_df.csv - This is the initial combination of 3 data sets mentioned above.
-2. df_use.csv - This is the data that contains initial variables and dummy variables
+The data set is provided by Udacity in .json format. It is public to all users. Due to the size of the data set, I am not including it in my repository. 
+
 ### The .json files
 These files are located in the 'data' folder. The folder contains 3 files:
 1. portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
